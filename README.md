@@ -10,7 +10,7 @@ The analysis utilizes Ordinary Least Squares (OLS) regression and rolling window
 Parameter               	     Observed Value
 
 **Decadal Warming Rate**    	**+2.53°C per decade**
-**Aggregate Baseline Shift**	**+4.54°C (Comparing 2000–2015 to 2016–2025)**
+**Aggregate Baseline Shift**	**+4.54°C (Comparing 2000–2016 to 2016–2025)**
 **Temporal Coverage**       	**Jan 1, 2000 – Dec 31, 2025**
 **Data Granularity**        	**Daily Mean/Max/Min Temperatures**
 

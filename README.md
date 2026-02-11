@@ -35,7 +35,7 @@ Where:
 
 ### 3. Epoch Comparison
 
-The dataset was bifurcated into two distinct periods—2000–2010 and 2016–2025—to analyze the acceleration of warming. This comparative approach reveals a significant increase in both the mean temperature and the slope of warming in the most recent decade.
+The dataset was bifurcated into two distinct periods 2000–2016 and 2016–2025—to analyze the acceleration of warming. This comparative approach reveals a significant increase in both the mean temperature and the slope of warming in the most recent decade.
 
 ## Installation
 ```Bash
